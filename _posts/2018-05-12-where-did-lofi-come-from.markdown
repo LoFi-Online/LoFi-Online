@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Where Did LoFi Come From?"
+date:   2019-04-12 18:05:55 +0300
+image:  05.gif
+tags:   [lofi, lofi-questions, origins]
+---
+
+While lofi is one of the most original and diverse musical genres, I realized early on in my research of it that while it may be hard to describe the music itself, the history of it can be almost as complicated. What makes it so complicated with regards to the history of the genre is that can’t really be pinpointed to one person, style, or genre that it takes after or evolved from, it’s a mixture of many people, cultures, and different types of music that all come together to form lofi. So with that in mind, I set out and did a little bit of digging to find where lofi actually came from, and here’s what I came back with.
+
+**Where did LoFi come from?**
+
+If you go all the way to the beginning, lofi can actually be traced back to the 1950s. When music recording equipment wasn’t quite what it was today, you could sometimes hear background noise in the back of different music tracks. The first time that this achieved mainstream success was in Paul McCartney’s first solo album McCartney. The album was recorded in his house and in a couple of the tracks you can hear background noise, while at the time that was usually considered unprofessional, the album received an overwhelmingly positive response when released, and one of the main points for that positivity was the slight errors in recording that made the album feel more authentic. From the release of that album in 1970, a couple of other artists followed behind them
+
+**Who created LoFi?**
+
+While there is some room for debate, the first person to really create true lofi was R. Stevie Moore. Moore was a musician who created a couple of albums in his parent’s basement, but what made them so noteworthy was that he was the first person to put the sounds of the recording process into the music and make it a point to not edit them out. Moore put out an album titled Phonography in 1976, and although it wasn’t big in terms of sales, it gained a following of youths and spurred the genre of lofi into what it is today.
+
+**Where did the name “LoFi” come from?**
+
+A radio DJ from the station WFMU named William Berger first used the name “lofi” in 1986 when he hosted a thirty minute radio show called “Low-Fi”. The radio show was not very high quality, and most of the recordings had background noise going on very audibly, just like, well, lofi music! The show ended in 1987, but not without starting and somewhat popularizing the genre. It is worth noting that in 1976 the word “lofi’ was added to the Oxford Dictionary and the definition is “sound production less good in quality than ‘hi-fi.‘”. With that being said, lofi didn’t come to be what we know it as today until many years later.
+
+Lofi is a fascinating genre, from its roots of literally starting from someone who was living in their parents basement, to a short lived radio show, to what we know it as today, the genre has come a long way. While it’s still somewhat hard to actually pinpoint an exact definition to the genre, it has slowly but surely developed its own aesthetic and distinct sound. Hopefully it continues to evolve throughout time and see the light of mainstream success, but for now it will enjoy a great life of YouTube livestreams and anime gifs.

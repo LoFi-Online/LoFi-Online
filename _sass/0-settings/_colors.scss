@@ -1,0 +1,37 @@
+// Main Colors
+$primary-color: rgb(59, 110, 139);
+$secondary-color: rgb(209, 93, 147);
+$highlight: #6bdd84;
+$text: rgb(228, 234, 236);
+$gray-blue: #cdd1dd;
+$white: #ffffff;
+$black: #171718;
+$lighten-black: #1a1919;
+//$blue-black: linear-gradient(45deg, rgba(31,39,64,1) 0%, rgba(66,69,189,1) 70%);
+$blue-black: linear-gradient(45deg, rgba(30,31,34,1) 0%, rgba(63,63,66,1) 72%);
+
+$blue-darken: #171718;
+$green-darken: rgb(31, 44, 43);
+$danger: #e02f40;
+$success: #34a74e;
+
+
+// Background Colors
+$background: $blue-black;
+
+// Body Color
+$body-color: $text;
+
+// Headings
+$heading-font-color: #9c3c3c;
+
+// Links
+$link-color: $primary-color;
+$link-color-hover: lighten($link-color, 15%);
+
+// Button
+$button-color: $white;
+$button-background-color: $primary-color;
+
+// Border
+$border-color: #3E4250;

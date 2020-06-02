@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Why Do People Listen To LoFi?"
+date:   2019-05-27 18:05:55 +0300
+image:  01.jpg
+tags:   [lofi, lofi-questions]
+---
+
+A couple of years ago I came home from a long day at school and an even longer day at work and started down my usual daily relaxation routine. I took off my work clothes, changed into something slightly more comfortable, but still great looking (come on, I’m still somewhat of a narcissist), and sat down at my computer. I usually will attempt to git gud at Tekken or Dark Souls, but for whatever reason that day I decided to get on YouTube and see what would be recommended to me. While browsing through recommended videos section that definitely isn’t forced into your face, I came across a studying anime girl with a big set of headphones on intensely trying to memorize whatever was in that book. While the video gave off a sort of chilled vibe, what’s interesting is that I somehow felt a connection and a sense of nostalgia for a time that I had never had before. So that brought me to my question, why do people actually listen to lofi?
+
+**Why Do People Listen To LoFi?**
+
+People listen to lofi to induce a chilled out, relaxing feeling that is also known to invoke a sense of nostalgia even if they haven’t experienced that particular time. While in my experience and others that I’ve both talked to and read, lofi can invoke many different emotions, some other emotions that are commonly evoked are grief, joy, and hope. What does that actually mean? Heck if I know, but I think that every emotion is different from person to person.
+
+**How Does LoFi Evoke Nostalgia?**
+
+While there are a couple of different ways that lofi evokes nostalgia, the main way is that due to its recording style. Lofi purposefully has “recording errors” written into the music and final recording. These errors usually consist of DJ type scratching, people talking in the background, and different out of beat song beats that are interjected in the already established rhythm. But how does that actually evoke nostalgia? For me it invokes the nostalgia because it takes me back to times of pure relaxation to where I had almost no worries in life at all. The mere chilledness (I guess that’s a word…?) of it just makes you feel worry free, and really puts you back to a time that reminds many of their childhood.
+
+While there are at least three different reasons why people listen to lofi, it will almost vary, even if slightly, from person to person. Lofi can invoke such a strong sense of different emotions that it makes it hard to accurately give a description of just why it is that people listen to it. Lofi is just so many different musical genres blended together that it can evoke many different emotions from just one song, that you can ask one hundred different people what they think about it and you’ll probably get one hundred different answers!
