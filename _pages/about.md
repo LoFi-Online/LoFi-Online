@@ -38,5 +38,5 @@ Joseph founded LoFi Online back in July of 2019, but due to his lazy nature didn
 <small>"Roads? Where we're going we don't need... roads!" — Dr. Emmett Brown</small>
 {: style="text-align: center;"}
 
-Tyler joined LoFi Online in April of 2020 with the intention of using his "skills" as a programmer to improve the site and help it become successful. We have yet to see any improvment. Staying hopeful, Tyler continues to learn and improve his skills to further the site and make Joseph's life easier. Tyler is currently in college getting his degree in computer science. You can usually catch him playing video games, listening to music, or spending an absurd amount of money on custom mechanical keyboards.
+Tyler joined LoFi Online in April of 2020 with the intention of using his "skills" as a programmer to improve the site and help it become successful. We have yet to see any improvement. Staying hopeful, Tyler continues to learn and improve his skills to further the site and make Joseph's life easier. Tyler is currently in college getting his degree in computer science. You can usually catch him playing video games, listening to music, or spending an absurd amount of money on custom mechanical keyboards.
 {: style="text-align: center;"}
