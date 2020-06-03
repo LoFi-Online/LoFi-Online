@@ -3,7 +3,7 @@
 
 title: LoFi Online
 description: LoFi Online, You're one stop shop for everything LoFi. # this means to ignore newlines until "baseurl:"
-baseurl: "/LoFi-Online" # the subpath of your site, e.g. /blog
+baseurl: "/lofionline" # the subpath of your site, e.g. /blog
 url: "https://lofionline.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
