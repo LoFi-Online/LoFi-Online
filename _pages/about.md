@@ -24,7 +24,7 @@ At LoFi Online we are about bringing you the best and most up to date content ab
 <small>"I intend to live forever. So far, so good." — Steven Wright</small>
 {: style="text-align: center;"}
 
-Joseph founded LoFi Online back in July of 2019, but due to his lazy nature didn't do anything with it until more recently. He now writes most of the content while still retaining his lazy nature, and putting all the actual work on other people. After learning and listening to LoFi, he was surpirsed to see that there wasn't a website dedicated to the genre, and thus LoFi Online was born. He enjoys playing video games, holding unpopular opinions, and of course, listening to lofi.
+Joseph founded LoFi Online back in July of 2019, but due to his lazy nature he didn't do anything with it until more recently. He now writes most of the content while still retaining his lazy nature, and putting all the actual work on other people. After learning and listening to LoFi, he was surpirsed to see that there wasn't a website dedicated to the genre, and thus LoFi Online was born. He enjoys playing video games, holding unpopular opinions, and of course, listening to lofi.
 {: style="text-align: center;"}
 
 ***
