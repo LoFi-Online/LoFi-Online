@@ -2,7 +2,7 @@
 layout: post
 title:  "Where Did LoFi Come From?"
 date:   2019-04-12 18:05:55 +0300
-image:  05.gif
+image:  13.jpg
 tags:   [lofi, lofi-questions, origins]
 ---
 
